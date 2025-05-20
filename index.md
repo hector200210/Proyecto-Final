@@ -8,4 +8,4 @@
   
   [¿Quieres verla?](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_1.ipynb)
   
-  ![](https://tenor.com/es-CR/search/pervertido-gifs)
+  ![](https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif)
