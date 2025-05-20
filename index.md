@@ -4,7 +4,7 @@
 
 
 # Tarea 1
-  La idea de estos ejercicios era repasar lo visto el semestre anterior y ahora utilizar python para el resto del semestre, realizamos ejercicios para operar matrices, generar arreglos, repasar el uso de ciclos, crear funciones, realizar graficas y editarlas. 
+El objetivo de estos ejercicios fue repasar los contenidos vistos durante el semestre anterior y comenzar a utilizar Python como herramienta principal para el resto del curso. Realizamos actividades orientadas a operar con matrices, generar arreglos, repasar el uso de ciclos, crear funciones, así como realizar y editar gráficas, entre otros temas.
   
   [¿Quieres verla?](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_1.ipynb)
   
