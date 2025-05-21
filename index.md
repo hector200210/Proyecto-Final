@@ -44,4 +44,10 @@ En esta parte de la materia trabajamos con métodos numéricos enfocados en la r
 ![](https://miro.medium.com/v2/resize:fit:1200/1*dDRXeF51Q_1ixR5Z3PhT2Q.gif)
 
 ## Tarea 5
+Para este trabajo ya avanzamos de tema, trabajamos con técnicas de derivación e integración numérica, las cuales permiten aproximar soluciones cuando no es posible derivar o integrar una función de forma analítica. Utilizamos métodos como la derivada hacia adelante, hacia atrás y centrada para estimar la pendiente de funciones. En el caso de la integración, aplicamos métodos como el trapecio y Simpson, que nos permiten calcular el área bajo la curva de manera aproximada. Estas herramientas son especialmente útiles cuando se trabaja con datos discretos o funciones complejas que no tienen solución exacta conocida.
 
+[UwU](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea5.ipynb)
+
+![](https://media.giphy.com/media/SqxrZWLVNknUR6L2a3/giphy.gif)
+
+![](https://lh3.googleusercontent.com/proxy/5pLmBqxKk4n7De9Zolweg6VnGvoH8y-e0_fMcrneMpsjGJfqN1afa3uicE2tqxXvDU8GZv8u327RIYgLSEynSCQhaw)
