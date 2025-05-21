@@ -134,8 +134,9 @@
 >  
 > Más allá de aprender cada técnica por separado, entendimos **cuándo y por qué conviene usarlas**,  
 > cómo se comportan según el problema, y qué tan precisas pueden llegar a ser. Además, practicar  
-> todo esto en Python nos dio una herramienta muy poderosa para resolver problemas reales, una herramienta
-> que podremos usar a futuro :)  
+> todo esto en Python nos dio una herramienta muy poderosa para resolver problemas reales.
+>
+> Herramienta que podremos usar a futuro :)  
 >  
 > En resumen: no solo aprendimos teoría, sino que también la pusimos en acción. 💻📊
 
