@@ -1,5 +1,5 @@
-# ***Recopilacion de tareas*** :)
-
+# ***📦Recopilacion de tareas📦*** :)
+>
 ![](https://puntomedio.mx/wp-content/uploads/2018/06/Ooga-Chaka-Baby.gif)
 
 ## 🚀 Tarea 1
@@ -12,41 +12,54 @@
 
 ---
 
-## Tarea 2
->En esta tarea comenzamos a trabajar con métodos numéricos para encontrar soluciones de ecuaciones no lineales, es decir, sus raíces. Utilizamos métodos como bisección, Newton-Raphson y el método de la secante. La efectividad de cada método depende de la función y de las condiciones iniciales, por lo que algunos pueden funcionar mejor que otros según el caso.
+## 🧠 Tarea 2
 
-  [Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E1.ipynb)
+> En esta tarea nos metimos de lleno a encontrar raíces de funciones (es decir, dónde la  
+> función vale cero). Probamos tres métodos distintos: bisección, Newton-Raphson y secante.  
+> Cada uno tiene sus ventajas, y depende de la forma de la función y por dónde empecemos.  
+> Fue una buena forma de ver cuál método funciona mejor en cada caso.
+
+  📘[Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E1.ipynb)
   
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif)
 
 
-  [Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E2.ipynb)
+  📗[Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E2.ipynb)
 
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/NewtonRaphson_animado.gif) 
 
 
-  [Ejercicio 3. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E3.ipynb)
+  📙[Ejercicio 3. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E3.ipynb)
 
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/SecanteMetodo_animado.gif)
 
 ---
 
-## Tarea 3
->En esta tarea continuamos viendo métodos numéricos para encontrar las raíces de ecuaciones no lineales. En esta ocasión, trabajamos con el método de la falsa posición (o regla falsa) y el método de Birge-Vieta (o Viète). Ambos permiten encontrar soluciones aproximadas a ecuaciones, pero se aplican de manera distinta según el tipo de función.
+## 🧠 Tarea 3
 
-  [Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E1.ipynb)
+> Seguimos con el tema de encontrar raíces de funciones, pero ahora usando dos nuevos  
+> métodos: **falsa posición** y **Birge-Vieta**. Cada uno se aplica según el tipo de  
+> función que tengamos. El objetivo fue entender cómo funcionan, cuándo conviene usarlos  
+> y compararlos con los anteriores.
+
+  📘[Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E1.ipynb)
 
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/10/posicionfalsa01_GIF.gif)
 
 
-  [Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E2.ipynb)
+  📙[Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E2.ipynb)
 
 ---
 
-## Tarea 4
->En esta parte de la materia trabajamos con métodos numéricos enfocados en la resolución de sistemas de ecuaciones lineales. Para ello, utilizamos tanto métodos directos como iterativos, dependiendo de las características del sistema a resolver. Entre los métodos abordados se encuentran: Gauss-Jordan, matriz inversa, determinantes, descomposición LU, descomposición de Cholesky, Jacobi y Gauss-Seidel. Cada uno de estos métodos tiene aplicaciones específicas y ventajas particulares en distintos contextos computacionales y matemáticos.
+## 🧠 Tarea 4
 
-[Ver aqui. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea4.ipynb)
+> En esta parte de la materia aprendimos a resolver sistemas de ecuaciones lineales.  
+> Usamos varios métodos, tanto directos como iterativos: Gauss-Jordan, matriz inversa,  
+> determinantes, LU, Cholesky, Jacobi y Gauss-Seidel. Cada uno tiene su propio estilo  
+> y se adapta mejor a diferentes tipos de sistemas. Fue una tarea muy completa para  
+> practicar todos estos enfoques.
+
+📗[Ver aqui. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea4.ipynb)
 
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*dDRXeF51Q_1ixR5Z3PhT2Q.gif" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
 
@@ -83,7 +96,7 @@
 
 ---
 
-## 🔍 Tarea 6
+## 🧠 Tarea 6
 
 > En esta última tarea vimos técnicas para estimar y analizar datos:  
 > - **Interpolación numérica**, para aproximar valores dentro de un conjunto de datos.  
@@ -112,6 +125,21 @@
 
 ---
 
-# ***Conclusiones***
+# 🎓 **Conclusiones**
+
+> A lo largo de estas tareas fuimos construyendo paso a paso una base sólida en métodos numéricos  
+> y programación con Python. Empezamos repasando conceptos básicos y conociendo la herramienta,  
+> y poco a poco nos adentramos en temas más complejos y aplicados: encontrar raíces, resolver  
+> sistemas lineales, derivar e integrar de forma numérica, interpolar y ajustar datos.  
+>  
+> Más allá de aprender cada técnica por separado, entendimos **cuándo y por qué conviene usarlas**,  
+> cómo se comportan según el problema, y qué tan precisas pueden llegar a ser. Además, practicar  
+> todo esto en Python nos dio una herramienta muy poderosa para resolver problemas reales,
+> una herramienta que podremos usar a futuro :)  
+>  
+> En resumen: no solo aprendimos teoría, sino que también la pusimos en acción. 💻📊
+
+![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif?resize=374%2C374&ssl=1)
+
 
 
