@@ -49,8 +49,10 @@ Para este trabajo ya avanzamos de tema, trabajamos con técnicas de derivación 
 [UwU](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea5.ipynb)
 
 **Integracion**
+
 ![](https://media.giphy.com/media/SqxrZWLVNknUR6L2a3/giphy.gif)
 
 
 **Derivacion**
+
 ![](https://lh3.googleusercontent.com/proxy/5pLmBqxKk4n7De9Zolweg6VnGvoH8y-e0_fMcrneMpsjGJfqN1afa3uicE2tqxXvDU8GZv8u327RIYgLSEynSCQhaw)
