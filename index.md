@@ -56,3 +56,23 @@ Para este trabajo ya avanzamos de tema, trabajamos con técnicas de derivación 
 **Derivacion**
 
 ![](https://lh3.googleusercontent.com/proxy/5pLmBqxKk4n7De9Zolweg6VnGvoH8y-e0_fMcrneMpsjGJfqN1afa3uicE2tqxXvDU8GZv8u327RIYgLSEynSCQhaw)
+
+## Tarea 6 
+Para esta ultima tarea abarcamos técnicas de interpolación numérica y regresión lineal, herramientas fundamentales para el análisis y la estimación de datos. La interpolación numérica nos permite aproximar valores desconocidos dentro del intervalo de un conjunto de datos conocidos. Para ello, se construyen funciones que pasan exactamente por los puntos dados, utilizando métodos como la interpolación lineal, de Newton o de Lagrange.
+
+Por otro lado, la regresión lineal se utiliza para encontrar una relación aproximada entre dos variables, ajustando una recta que representa la tendencia general de los datos. A diferencia de la interpolación, no necesariamente pasa por todos los puntos, ya que su objetivo es minimizar el error y modelar patrones cuando los datos presentan cierta variabilidad o ruido.
+
+Ambas técnicas son muy útiles: la interpolación para estimar valores específicos dentro del rango de datos conocidos, y la regresión para analizar comportamientos o hacer predicciones.
+
+[Ejercicio de interpolacion numerica.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_6_Interpolado.ipynb)
+
+![](https://blog.espol.edu.ec/analisisnumerico/files/2017/12/DifFinAvanz01_anima.gif)
+
+
+[Ejercicio de Regresion lineal.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_6_Regresion.ipynb)
+
+![](https://raw.githubusercontent.com/WillArevalo/Intro-Machine-Learning/master/Apuntes%20Jupyter/regresion-lineal.gif)
+
+# ***Conclusiones***
+
+
