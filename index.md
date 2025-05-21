@@ -25,3 +25,15 @@ En esta tarea comenzamos a trabajar con métodos numéricos para encontrar soluc
 [Ejercicio 3.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E3.ipynb)
 
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/SecanteMetodo_animado.gif)
+
+## Tarea 3
+En esta tarea continuamos viendo métodos numéricos para encontrar las raíces de ecuaciones no lineales. En esta ocasión, trabajamos con el método de la falsa posición (o regla falsa) y el método de Virge-Vieta (o Viète). Ambos permiten encontrar soluciones aproximadas a ecuaciones, pero se aplican de manera distinta según el tipo de función.
+
+[Ejercicio 1.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E1.ipynb)
+
+![](https://blog.espol.edu.ec/analisisnumerico/files/2017/10/posicionfalsa01_GIF.gif)
+
+
+[Ejercicio 2.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E2.ipynb)
+
+## Tarea 4
