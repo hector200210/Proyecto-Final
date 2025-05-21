@@ -17,7 +17,7 @@
 
   [Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E1.ipynb)
 
-<img src="[https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif)" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
+<img src="https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
 
 
   [Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E2.ipynb)
