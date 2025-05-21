@@ -13,10 +13,15 @@ El objetivo de estos ejercicios fue repasar los contenidos vistos durante el sem
 En esta tarea comenzamos a trabajar con métodos numéricos para encontrar soluciones de ecuaciones no lineales, es decir, sus raíces. Utilizamos métodos como bisección, Newton-Raphson y el método de la secante. La efectividad de cada método depende de la función y de las condiciones iniciales, por lo que algunos pueden funcionar mejor que otros según el caso.
 
 [Ejercicio 1.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E1.ipynb)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAZaLUKLerpDs4Z-xSp9qKNYXJ1OaF-jchw&s)
+
+![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif)
+
 
 [Ejercicio 2.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E2.ipynb)
+
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/NewtonRaphson_animado.gif) 
 
+
 [Ejercicio 3.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E3.ipynb)
-![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif)
+
+![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/SecanteMetodo_animado.gif)
