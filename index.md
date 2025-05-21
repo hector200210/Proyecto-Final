@@ -64,19 +64,20 @@
 
 [👀 Ver código aquí](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea5.ipynb)
 
-<br/>
+<table align="center">
+  <tr>
+    <td style="text-align: center;">
+      <strong>Integración</strong><br/>
+      <img src="https://media.giphy.com/media/SqxrZWLVNknUR6L2a3/giphy.gif" width="300" style="border-radius:10px;">
+    </td>
+    <td style="width: 50px;"></td> <!-- Espaciado entre imágenes -->
+    <td style="text-align: center;">
+      <strong>Derivación</strong><br/>
+      <img src="https://lh3.googleusercontent.com/proxy/5pLmBqxKk4n7De9Zolweg6VnGvoH8y-e0_fMcrneMpsjGJfqN1afa3uicE2tqxXvDU8GZv8u327RIYgLSEynSCQhaw" width="300" style="border-radius:10px;">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 40px;">
-    <strong>Integración</strong><br/>
-    <img src="https://media.giphy.com/media/SqxrZWLVNknUR6L2a3/giphy.gif" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); margin: 10px;" alt="Integración GIF"/>
-  </div>
-
-  <div style="display: inline-block; text-align: center;">
-    <strong>Derivación</strong><br/>
-    <img src="https://lh3.googleusercontent.com/proxy/5pLmBqxKk4n7De9Zolweg6VnGvoH8y-e0_fMcrneMpsjGJfqN1afa3uicE2tqxXvDU8GZv8u327RIYgLSEynSCQhaw" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); margin: 10px;" alt="Derivación GIF"/>
-  </div>
-</p>
 
 ---
 
