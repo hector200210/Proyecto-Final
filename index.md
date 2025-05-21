@@ -10,7 +10,7 @@
   
   [¿Quieres verla? 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_1.ipynb)
   
-  ![](https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif)
+<img src="https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
 
 ---
 
