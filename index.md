@@ -27,7 +27,7 @@ En esta tarea comenzamos a trabajar con métodos numéricos para encontrar soluc
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/SecanteMetodo_animado.gif)
 
 ## Tarea 3
-En esta tarea continuamos viendo métodos numéricos para encontrar las raíces de ecuaciones no lineales. En esta ocasión, trabajamos con el método de la falsa posición (o regla falsa) y el método de Virge-Vieta (o Viète). Ambos permiten encontrar soluciones aproximadas a ecuaciones, pero se aplican de manera distinta según el tipo de función.
+En esta tarea continuamos viendo métodos numéricos para encontrar las raíces de ecuaciones no lineales. En esta ocasión, trabajamos con el método de la falsa posición (o regla falsa) y el método de Birge-Vieta (o Viète). Ambos permiten encontrar soluciones aproximadas a ecuaciones, pero se aplican de manera distinta según el tipo de función.
 
 [Ejercicio 1.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E1.ipynb)
 
@@ -37,3 +37,11 @@ En esta tarea continuamos viendo métodos numéricos para encontrar las raíces 
 [Ejercicio 2.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_3_E2.ipynb)
 
 ## Tarea 4
+En esta parte de la materia trabajamos con métodos numéricos enfocados en la resolución de sistemas de ecuaciones lineales. Para ello, utilizamos tanto métodos directos como iterativos, dependiendo de las características del sistema a resolver. Entre los métodos abordados se encuentran: Gauss-Jordan, matriz inversa, determinantes, descomposición LU, descomposición de Cholesky, Jacobi y Gauss-Seidel. Cada uno de estos métodos tiene aplicaciones específicas y ventajas particulares en distintos contextos computacionales y matemáticos.
+
+[Ver aqui.](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea4.ipynb)
+
+![](https://miro.medium.com/v2/resize:fit:1200/1*dDRXeF51Q_1ixR5Z3PhT2Q.gif)
+
+## Tarea 5
+
