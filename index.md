@@ -145,7 +145,7 @@
 
 ![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif?resize=374%2C374&ssl=1)
 
-[0:27](https://www.youtube.com/watch?v=F2YpXC1itEE&t=26s)
+[Grazie 🙏](https://www.youtube.com/watch?v=F2YpXC1itEE&t=27s)
 
 
 
