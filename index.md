@@ -2,6 +2,9 @@
 >
 ![](https://puntomedio.mx/wp-content/uploads/2018/06/Ooga-Chaka-Baby.gif)
 
+---
+---
+
 ## 🚀 Tarea 1
 
 >El objetivo de estos ejercicios fue repasar los contenidos vistos durante el semestre anterior y comenzar a utilizar Python como herramienta principal para el resto del curso. Realizamos actividades orientadas a operar con matrices, generar arreglos, repasar el uso de ciclos, crear funciones, así como realizar y editar gráficas, entre otros temas.
@@ -141,6 +144,9 @@
 > En resumen: no solo aprendimos teoría, sino que también la pusimos en acción. 💻📊
 
 ![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif?resize=374%2C374&ssl=1)
+
+[Ver video desde 0:26](https://www.youtube.com/watch?v=VIDEO_ID&t=90s)
+
 
 
 
