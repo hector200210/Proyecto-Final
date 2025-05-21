@@ -4,8 +4,6 @@
 
 ## 🚀 Tarea 1
 
-### ✨ Objetivo
-
 >El objetivo de estos ejercicios fue repasar los contenidos vistos durante el semestre anterior y comenzar a utilizar Python como herramienta principal para el resto del curso. Realizamos actividades orientadas a operar con matrices, generar arreglos, repasar el uso de ciclos, crear funciones, así como realizar y editar gráficas, entre otros temas.
   
   [¿Quieres verla? 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_1.ipynb)
@@ -15,16 +13,17 @@
 ---
 
 ## Tarea 2
-En esta tarea comenzamos a trabajar con métodos numéricos para encontrar soluciones de ecuaciones no lineales, es decir, sus raíces. Utilizamos métodos como bisección, Newton-Raphson y el método de la secante. La efectividad de cada método depende de la función y de las condiciones iniciales, por lo que algunos pueden funcionar mejor que otros según el caso.
+>En esta tarea comenzamos a trabajar con métodos numéricos para encontrar soluciones de ecuaciones no lineales, es decir, sus raíces. Utilizamos métodos como bisección, Newton-Raphson y el método de la secante. La efectividad de cada método depende de la función y de las condiciones iniciales, por lo que algunos pueden funcionar mejor que otros según el caso.
 
-[Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E1.ipynb)
+  [Ejercicio 1. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E1.ipynb)
 
-![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif)
+<img src="[https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/Biseccion_animado.gif)" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
 
 
-[Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E2.ipynb)
+  [Ejercicio 2. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E2.ipynb)
 
 ![](https://blog.espol.edu.ec/analisisnumerico/files/2017/09/NewtonRaphson_animado.gif) 
+<img src="" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
 
 
 [Ejercicio 3. 👀](https://github.com/hector200210/Proyecto-Final/blob/main/Codigos%20py/Tarea_2_E3.ipynb)
